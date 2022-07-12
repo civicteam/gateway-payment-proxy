@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-gateway_payment_proxy = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+gateway_payment_proxy = "gpp77nzp35M7wfS4MofJPg3CLxqAuLa3XgKS7333Pg6"
 
 [registry]
 url = "https://anchor.projectserum.com"
